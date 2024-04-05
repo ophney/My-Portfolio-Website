@@ -10,8 +10,8 @@ Welcome to my portfolio repository! This repository contains the source code and
 
 ## Technologies Used
 
-- HTML5
-- CSS3 (including SCSS)
+- HTML
+- CSS
 - JavaScript
 - JQuery
 - Bootstrap
